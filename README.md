@@ -1,2 +1,2 @@
 # youla-grabber
-Python & MongoDb Youla grabber
+Python (using grab multithreading spider) & MongoDb Youla grabber
